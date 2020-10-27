@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--//Goutham Moorthy, 300948360, 002 -->
+<resources>
+    <string name="app_name">GouthamLab3</string>
+    <string name="title_home">La Maison</string>
+    <string name="title_dashboard">Tableau De Bord</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
